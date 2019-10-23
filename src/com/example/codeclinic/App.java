@@ -59,7 +59,8 @@ public class App {
         // location = getData("");
         // obj = new JSONObject(location);
         // and then we can access by using obj.getString("city")
-        Gson gsonObj = new Gson();
+        // Never used
+       // Gson gsonObj = new Gson();
 
 
         location = getData("");
